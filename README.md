@@ -1,4 +1,6 @@
-Thael le voleur/mage et Velvevlos son épée maudite vous attendent à la sortie du donjon d'irenicus.
+#Thael le voleur/mage et son épée maudite
+
+Ils vous attendent à la sortie du donjon d'irenicus.
 
 Particularités :
 
