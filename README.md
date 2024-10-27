@@ -3,5 +3,5 @@ Thael le voleur/mage et Velvevlos son épée maudite vous attendent à la sortie
 Particularités :
 
 - Son "pouvoir mutant" est une "Transformation de Tenser" qui ne l’empêche pas de lancer des sorts.
-- Velvevlos évolue au fur et à mesure de l'histoire de Thael. Au départ elle est +3, permet de lancer 3x par jour Vision véritable et à 20% de chance de drainer un niveau sans jet de sauvegarde. Ensuite elle devient +5 et vorpale (10% de chance de tuer sur un jds contre la mort raté), et finalement elle devient infaillible (+5 au toucher).
+- Velvevlos est à la base une épée +3 qui protège Thael contre les attaques mentales et le drain de niveau, peut lancer 3x/jour Vision véritable et à 20% de chance en touchant de drainer un niveau sans jds. Et elle évolue avec l'histoire de Thael....
 - La conclusion de l'histoire de Thael se trouve dans TOB.
