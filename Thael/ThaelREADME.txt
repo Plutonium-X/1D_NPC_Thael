@@ -144,3 +144,5 @@ VII. VERSIONES
        - Zeroed effects offset in [Thael\Sindel\GBuss.cre]
        - Added VERSION flag
        - Updated to WeiDU v215
+	   
+  2.33 - BG2EE and EET compatibility by Deratiseur
