@@ -1,4 +1,4 @@
-# Thael le voleur/mage et son épée maudite
+# Thael le voleur/mage et Velvevlos son épée maudite
 
 Ils vous attendent à la sortie du donjon d'irenicus.
 
