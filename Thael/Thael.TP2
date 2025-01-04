@@ -49,7 +49,11 @@ LANGUAGE ~Deutsch (by Leonardo Watson)~
 
 LANGUAGE ~Francais (by Althea, from the d'Oghmatiques)~
          ~french~
-         ~thael/tra/french/setup.tra~		 
+         ~thael/tra/french/setup.tra~
+
+LANGUAGE ~English (by Nightfarer)~
+         ~english~
+         ~thael/tra/english/setup.tra~			 
         
 
 

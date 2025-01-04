@@ -120,9 +120,15 @@ VII. VERSIONS
        - Actualizado el README y añadido un nuevo epígrafe sobre spoilers.
        - Nuevas voces para Thael gracias a Saemon de Clan DLAN
 
-  2.31 - Traduction française réalisée par Althéa (des d'Oghmatiques)
+  2.31 - Révision de la Traduction française par Althéa (des d'Oghmatiques)
 
-  2.32 - Lollorian's corrected GLOBAL typo - Thael_d.D
-       - Zeroed effects offset in [Thael\Sindel\GBuss.cre]
-       - Added VERSION flag
-       - Updated to WeiDU v215
+  2.32 - Correction de l'erreur de typo GLOBALE par Lollorian - Thael_d.D
+       - Mise à zéro du décalage des effets dans [Thael\Sindel\GBuss.cre].
+       - Ajout du drapeau VERSION
+       - Mise à jour vers WeiDU v215
+	   
+  2.33 - Ajout de la compatibilité avec BG2EE et EET.
+	   - Correction dans la description des objets en français.
+	   
+  2.34 - Ajout de la traduction anglaise par Nightfarer (trouvée dans le BWS)
+	   

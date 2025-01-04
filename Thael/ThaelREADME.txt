@@ -145,4 +145,7 @@ VII. VERSIONES
        - Added VERSION flag
        - Updated to WeiDU v215
 	   
-  2.33 - BG2EE and EET compatibility by Deratiseur
+  2.33 - Añadida compatibilidad con BG2EE y EET.
+	   - Corrección en la descripción de objetos en francés.
+	   
+  2.34 - Añadida traducción al inglés de Nightfarer (se encuentra en el BWS).
