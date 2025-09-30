@@ -2,7 +2,7 @@
 BACKUP ~Thael\backup~
 AUTHOR ~sergiond77@hotmail.com~
 
-VERSION ~v2.32~
+VERSION ~v2.35~
 ALWAYS
 ACTION_IF GAME_IS ~BG2EE EET~ THEN BEGIN
 		ACTION_DEFINE_ARRAY ch_reload BEGIN
@@ -552,4 +552,5 @@ BEGIN @72 /*~Opcional: Instalar primera version de las voces para Thael~*/
 
 
 COPY ~Thael/Sound-1Version~ ~override~
+
 
